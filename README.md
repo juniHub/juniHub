@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Juni Nguyen</h1>
 
 <h3 align="center">A passionate full-stack developer and learning enthusiast.</h3>
+<h4 align="center"> My motto is "do more and you will understand more". </h4>
 
 <p align="center"><img src="https://res.cloudinary.com/dafolrlpj/image/upload/v1619521302/ecommerce/ewsrvo2teus2l1rvnd7u.png"></p>
 
