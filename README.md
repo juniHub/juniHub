@@ -9,7 +9,7 @@
 
 🏫 Graduated in Computer Science at Palomar College and now studying Software Development at Western Governors University (WGU).
 
-📚  Self-taught fullstack web development, my favorite ones are MERN stack and JAM stack.
+📚  Self-taught full-stack web development, my favorite ones are MERN stack and JAM stack.
 
 
 <h3 align="left">Connect with me:</h3>
