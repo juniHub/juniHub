@@ -10,13 +10,14 @@
 
 🏫 Graduated in Computer Science at Palomar College and now studying Software Development at Western Governors University (WGU).
 
-📚  Self-taught full-stack web development, my favorite ones are MERN stack and JAM stack.
+👩‍💻 Self-taught full-stack web development, my favorite ones are MERN stack and JAM stack.
 
 
 <h3 align="left">Connect with me:</h3>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hellojuninguyen@gmail.com)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juniHub)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/helloJuniNguyen)
 
 
 <h3 align="left">Technologies I am learning and using:</h3>
@@ -38,4 +39,12 @@
   <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
 
 </p>
+
+<h3 align="left">My Work Space (OS and IDE):</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+
+</p>
+  
 
