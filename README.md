@@ -4,7 +4,7 @@
 <h3 align="center">A passionate full-stack developer and learning enthusiast.</h3>
 <h4 align="center"> My motto is "do more and you will understand more". </h4>
 
-<p align="center"><img height="150" width="150" src="https://res.cloudinary.com/dafolrlpj/image/upload/v1619521302/ecommerce/ewsrvo2teus2l1rvnd7u.png"></p>
+<p align="center"><img height="150" width="150" src="https://res.cloudinary.com/dafolrlpj/image/upload/v1622376152/gallery/xyniwm2w4quh6k3xnnsr.gif"></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=juniHub&label=Profile&color=0e75b6&style=flat" alt="juniHub" /> </p>
 
