@@ -5,7 +5,7 @@
 
 <h4> My motto is "do more and you will understand more". </h4>
 
-<p><img height="150" width="150" src="https://res.cloudinary.com/dafolrlpj/image/upload/v1622376152/gallery/xyniwm2w4quh6k3xnnsr.gif"></p>
+<p><img height="200" width="200" src="https://res.cloudinary.com/dafolrlpj/image/upload/v1622376152/gallery/xyniwm2w4quh6k3xnnsr.gif"></p>
 
 <p> <img src="https://komarev.com/ghpvc/?username=juniHub&label=Profile&color=0e75b6&style=flat" alt="juniHub" /> </p>
 
