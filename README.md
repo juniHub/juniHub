@@ -1,13 +1,13 @@
 
-<h1 align="center">Hi 👋, I'm Juni Nguyen</h1>
+<h1>Hi 👋, I'm Juni Nguyen</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6C4E92&size=22&center=true&vCenter=true&lines=A+Passionate+Full-Stack+Developer;A+Learning+Enthusiast)](https://git.io/typing-svg)
 
-<h4 align="center"> My motto is "do more and you will understand more". </h4>
+<h4> My motto is "do more and you will understand more". </h4>
 
-<p align="center"><img height="150" width="150" src="https://res.cloudinary.com/dafolrlpj/image/upload/v1622376152/gallery/xyniwm2w4quh6k3xnnsr.gif"></p>
+<p><img height="150" width="150" src="https://res.cloudinary.com/dafolrlpj/image/upload/v1622376152/gallery/xyniwm2w4quh6k3xnnsr.gif"></p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=juniHub&label=Profile&color=0e75b6&style=flat" alt="juniHub" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=juniHub&label=Profile&color=0e75b6&style=flat" alt="juniHub" /> </p>
 
 🏫 Graduated in Computer Science at Palomar College and now studying Software Development at Western Governors University (WGU).
 
@@ -22,7 +22,7 @@
 
 
 <h3 align="left">Technologies I am learning and using:</h3>
-<p align="center">
+<p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
@@ -43,7 +43,7 @@
 </p>
 
 <h3 align="left">My Work Space (OS and IDE):</h3>
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 
