@@ -1,7 +1,7 @@
 
 <h1>Hi 👋, I'm Juni Nguyen</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6C4E92&size=22&center=false&vCenter=false&lines=A+Self-Taught+Full-Stack+Developer;A+Learning+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6C4E92&size=22&center=false&vCenter=false&lines=A+Self-Taught+Web+Developer;A+Learning+Enthusiast)](https://git.io/typing-svg)
 
 <h4> My motto is "do more and you will understand more". </h4>
 
