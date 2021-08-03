@@ -1,4 +1,4 @@
-[Hello Juni Nguyen](https://www.dropbox.com/home?preview=Hello+world.gif)
+![Hello Juni Nguyen](https://res.cloudinary.com/dafolrlpj/image/upload/v1627988551/personal%20stuff/b7wgbev2i2zciqrnnsrb.gif)
 
 <h1 align="center">Hi 👋, I'm Juni Nguyen</h1>
 <h3 align="center">A Self-taught Full-stack Developer</h3>
@@ -8,6 +8,10 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=junihub" alt="junihub" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/junihub20" target="blank"><img src="https://img.shields.io/twitter/follow/junihub20?logo=twitter&style=for-the-badge" alt="junihub20" /></a> </p>
+
+- 🏫 Graduated in Computer Science at Palomar College (San Diego) and now studying Software Development at Western Governors University (WGU).
+
+- 👩‍💻 Favorite tech stacks are MERN stack and JAM stack.
 
 - 🔭 I’m currently working on [writing tech blogs for what I have learned on web development and looking for new ideas for future projects.](https://juninguyen.medium.com/)
 
