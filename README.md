@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **Next.js and Gatsby.js.**
 
-- 👨‍💻 All of my projects are available at [https://hellojuninguyen.netlify.app/](https://hellojuninguyen.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://juninguyen.tech/](https://juninguyen.tech/)
 
 - 📝 I regularly write articles on [https://juninguyen.medium.com/](https://juninguyen.medium.com/)
 
@@ -38,7 +38,7 @@
 <a href="https://stackoverflow.com/users/15283073/juni-nguyen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/15283073/juni-nguyen" height="30" width="40" /></a>
 <a href="https://codesandbox.io/u/junihub" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="https://codesandbox.io/u/junihub" height="30" width="40" /></a>
 <a href="https://fb.com/hellojuninguyen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/hellojuninguyen/" height="30" width="40" /></a>
-<a href="https://dribbble.com/hellojuni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/hellojuninguyen" height="30" width="40" /></a>
+<a href="https://dribbble.com/helloJuniNguyen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/helloJuniNguyen" height="30" width="40" /></a>
 <a href="https://www.behance.net/hellojuninguyen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/hellojuninguyen" height="30" width="40" /></a>
 <a href="https://medium.com/@juninguyen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@juninguyen" height="30" width="40" /></a>
 </p>
