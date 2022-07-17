@@ -41,6 +41,8 @@
 <a href="https://dribbble.com/helloJuniNguyen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/helloJuniNguyen" height="30" width="40" /></a>
 <a href="https://www.behance.net/hellojuninguyen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/hellojuninguyen" height="30" width="40" /></a>
 <a href="https://medium.com/@juninguyen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@juninguyen" height="30" width="40" /></a>
+<a href="https://www.istockphoto.com/portfolio/JuniNguyen" target="blank"><img align="center" src="https://dribbble.com/shots/1970346-Major-websites-Icon-Set-Free-Sketch" alt="@juninguyen" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
