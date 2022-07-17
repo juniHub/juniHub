@@ -13,7 +13,7 @@
 
 - 👩‍💻 Favorite tech stacks are MERN stack and JAM stack.
 
-- 🔭 I’m currently [writing tech blogs on Medium](https://juninguyen.medium.com/), creating [template projects on Gumroad](https://codingleaf.gumroad.com/), building [generator web applications](https://www.juninguyen.tech/generators) and working as [a freelancer on Fiverr](https://www.fiverr.com/juninguyen?up_rollout=true)
+- 🔭 I’m currently writing [tech blogs on Medium](https://juninguyen.medium.com/), creating [template projects on Gumroad](https://codingleaf.gumroad.com/), building [generator web applications](https://www.juninguyen.tech/generators) and working as [a freelancer on Fiverr](https://www.fiverr.com/juninguyen?up_rollout=true)
 
 - 🌱 I’m currently learning **C#, .NET framework, Next.js and Gatsby.js.**
 
