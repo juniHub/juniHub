@@ -21,8 +21,6 @@
 
 - 📝 I regularly write articles on [https://juninguyen.medium.com/](https://juninguyen.medium.com/)
 
-- 📫 How to reach me **hellojuninguyen@gmail.com**
-
 - ⚡ Fun fact **I am super curious and never stop learning.**
 
 ### Blogs posts
