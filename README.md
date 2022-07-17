@@ -13,9 +13,9 @@
 
 - 👩‍💻 Favorite tech stacks are MERN stack and JAM stack.
 
-- 🔭 I’m currently working on [writing tech blogs for what I have learned on web development and looking for new ideas for future projects.](https://juninguyen.medium.com/)
+- 🔭 I’m currently [writing tech blogs on Medium](https://juninguyen.medium.com/), creating [template projects on Gumroad] (https://codingleaf.gumroad.com/), building [generator web applications](https://www.juninguyen.tech) and working as [a freelancer on Fiverr](https://www.fiverr.com/juninguyen?up_rollout=true)
 
-- 🌱 I’m currently learning **Next.js and Gatsby.js.**
+- 🌱 I’m currently learning **C#, .NET framework, Next.js and Gatsby.js.**
 
 - 👨‍💻 All of my projects are available at [https://juninguyen.tech/](https://juninguyen.tech/)
 
@@ -42,6 +42,8 @@
 <a href="https://www.behance.net/hellojuninguyen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/hellojuninguyen" height="30" width="40" /></a>
 <a href="https://medium.com/@juninguyen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@juninguyen" height="30" width="40" /></a>
 <a href="https://www.istockphoto.com/portfolio/JuniNguyen" target="blank"><img align="center" src="https://user-images.githubusercontent.com/35412770/179401436-f42d48fb-8017-4ffd-b16c-f504c5969726.svg" alt="@juninguyen" height="30" width="40" /></a>
+<a href="https://codingleaf.gumroad.com/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/35412770/179401791-f9237276-610b-4057-9e37-4fbd57d30e70.svg" alt="@juninguyen" height="30" width="40" /></a>
+<a href="https://www.fiverr.com/juninguyen?up_rollout=true" target="blank"><img align="center" src="https://user-images.githubusercontent.com/35412770/179401787-25e3f5a2-4ae5-406e-a862-3f5799539283.svg" alt="@juninguyen" height="30" width="40" /></a>
 
 </p>
 
