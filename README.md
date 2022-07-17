@@ -42,7 +42,7 @@
 <a href="https://www.istockphoto.com/portfolio/JuniNguyen" target="blank"><img align="center" src="https://user-images.githubusercontent.com/35412770/179401436-f42d48fb-8017-4ffd-b16c-f504c5969726.svg" alt="@juninguyen" height="30" width="40" /></a>
 <a href="https://codingleaf.gumroad.com/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/35412770/179401791-f9237276-610b-4057-9e37-4fbd57d30e70.svg" alt="@juninguyen" height="30" width="40" /></a>
 <a href="https://www.fiverr.com/juninguyen?up_rollout=true" target="blank"><img align="center" src="https://user-images.githubusercontent.com/35412770/179401787-25e3f5a2-4ae5-406e-a862-3f5799539283.svg" alt="@juninguyen" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCZUJ0nkrzeKkse3RLdedxHQ" target="blank"><img align="center" src="" alt="@juninguyen" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCZUJ0nkrzeKkse3RLdedxHQ" target="blank"><img align="center" src="https://user-images.githubusercontent.com/35412770/179404343-3743e3ee-221e-4f6f-af87-576034312b89.svg" alt="@juninguyen" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
