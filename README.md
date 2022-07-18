@@ -1,4 +1,4 @@
-![Hello Juni Nguyen](https://res.cloudinary.com/dafolrlpj/image/upload/v1627988551/personal%20stuff/b7wgbev2i2zciqrnnsrb.gif)
+![codingLEAF](https://res.cloudinary.com/dafolrlpj/image/upload/v1658138198/gallery/cda52aledzvnqtw0x6ns.png)
 
 <h1 align="center">Hi 👋, I'm Juni Nguyen</h1>
 <h3 align="center">A Self-taught Full-stack Developer</h3>
