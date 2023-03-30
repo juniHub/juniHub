@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/helloJuniNguyen" target="blank"><img src="https://img.shields.io/twitter/follow/helloJuniNguyen?logo=twitter&style=for-the-badge" alt="helloJuniNguyen" /></a> </p>
 
-- 🏫 Graduated in Computer Science at Palomar College (San Diego) and now studying Software Development at Western Governors University (WGU).
+- 🏫 Graduated with a concentrate in Software Development from Western Governors University (WGU).
 
 - 👩‍💻 Favorite tech stacks are MERN stack and JAM stack.
 
-- 🔭 I’m currently writing [tech blogs on Medium](https://juninguyen.medium.com/), creating [template projects on Gumroad](https://codingleaf.gumroad.com/), building [generator web applications](https://www.juninguyen.tech/generators) and working as [a freelancer on Fiverr](https://www.fiverr.com/juninguyen)
+- 🔭 I’m currently writing [tech blogs on Medium](https://juninguyen.medium.com/), creating [template projects on Gumroad](https://codingleaf.gumroad.com/), building [generator web applications](https://www.juninguyen.tech/generators), working as [a freelancer on Fiverr](https://www.fiverr.com/juninguyen) and creating[tutorials on channel "condingAt3AM"](https://www.youtube.com/@codingAt3AM)
 
 - 🌱 I’m currently learning **C#, .NET framework, and Next.js**
 
