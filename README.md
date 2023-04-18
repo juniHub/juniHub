@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/helloJuniNguyen" target="blank"><img src="https://img.shields.io/twitter/follow/helloJuniNguyen?logo=twitter&style=for-the-badge" alt="helloJuniNguyen" /></a> </p>
 
-- 🏫 Graduated with a concentrate in Software Development from Western Governors University (WGU).
+- 🏫 Graduated with a major in IT/Software Development.
 
 - 👩‍💻 Favorite tech stacks are MERN stack and JAM stack.
 
@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **C#, .NET framework, and Next.js**
 
-- 👨‍💻 All of my projects are available at [https://juninguyen.tech/](https://juninguyen.tech/)
+- 👨‍💻 Some of my projects are available at [https://juninguyen.tech/](https://juninguyen.tech/)
 
 - 📝 I regularly write articles on [https://juninguyen.medium.com/](https://juninguyen.medium.com/)
 
