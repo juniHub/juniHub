@@ -1,5 +1,5 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Banner — dark.png">
+  <source media="(prefers-color-scheme: dark)" srcset="./Banner — dark@2x.png">
   <img src="./Banner — light@2x.png" alt="Juni Nguyen, web developer, coding leaf" width="100%">
 </picture>
 
