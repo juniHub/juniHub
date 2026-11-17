@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Banner — dark.png">
-  <img src="./Banner — light.png" alt="Juni Nguyen, web developer, coding leaf" width="100%">
+  <img src="./Banner — light@2x.png" alt="Juni Nguyen, web developer, coding leaf" width="100%">
 </picture>
 
 <h1 align="center">Hi 👋, I'm Juni Nguyen</h1>
